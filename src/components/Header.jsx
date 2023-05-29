@@ -1,7 +1,7 @@
 //import Tombol from "./Tombol";
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-const nama = 'Amelia Siregar';
+const nama = 'Maypa Dea Fazrin';
 
 function Header(){
     return (
